@@ -1,16 +1,30 @@
-## Hi there 👋
+\# Salut ! Je suis Franck Mattina 👋
 
-<!--
-**franckmttn04/franckmttn04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bienvenue sur mon profil GitHub !
+
+Je suis débutant et j'apprends le développement web et le trading.
+
+
+
+\## À propos de moi
+
+\- Passionné par l'apprentissage et le progrès 📚
+
+\- Je découvre le HTML, le CSS et Python 🖥️
+
+\- Je m'intéresse au trading et à l'analyse des marchés 📈
+
+
+
+\## Objectifs
+
+\- Apprendre à coder et créer mes premiers projets simples
+
+\- Améliorer ma maîtrise de Git et GitHub
+
+\- Partager mes expériences d'apprentissage avec la communauté
+
+
+
